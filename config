@@ -1,0 +1,9 @@
+{
+    "database": {
+        "engine": "postgresql",
+        "port": 5432,
+        "database": "ccontroler",
+        "user": "ccontroler",
+        "password": "123456"
+    }
+}
